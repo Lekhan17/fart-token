@@ -1,0 +1,12 @@
+{
+  "name": "Fart Token",
+  "symbol": "FART",
+  "description": "The most powerful gas-powered meme token on Solana.",
+  "image": "https://raw.githubusercontent.com/Lekhan17/fart-token/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme"
+    }
+  ]
+}
